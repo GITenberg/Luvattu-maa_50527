@@ -1,9 +1,13 @@
 _repo: Luvattu-maa_50527
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Colliander, Gertrud
     gutenberg_agent_id: '42323'
     url: http://www.gutenberg.org/2009/agents/42323
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bourget, Paul
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50527#Luvattu-maa
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
